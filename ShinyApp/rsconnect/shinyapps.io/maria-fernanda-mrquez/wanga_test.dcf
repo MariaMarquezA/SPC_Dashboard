@@ -1,0 +1,12 @@
+name: wanga_test
+title: wanga_test
+username:
+account: maria-fernanda-mrquez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2219892
+bundleId: 3163176
+url: https://maria-fernanda-mrquez.shinyapps.io/wanga_test/
+when: 1589829935.57008
+asMultiple: FALSE
+asStatic: FALSE
